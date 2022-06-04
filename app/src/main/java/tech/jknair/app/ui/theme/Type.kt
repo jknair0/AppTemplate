@@ -1,4 +1,4 @@
-package tech.jknair.app.ui.theme
+package tech.jknair.##project_name##.ui.theme
 
 import androidx.compose.material.Typography
 import androidx.compose.ui.text.TextStyle

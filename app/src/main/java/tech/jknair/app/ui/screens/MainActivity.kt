@@ -1,7 +1,7 @@
-package tech.jknair.app.ui.screens
+package tech.jknair.##project_name##.ui.screens
 
 import androidx.compose.runtime.Composable
-import tech.jknair.app.ui.base.ComposeActivity
+import tech.jknair.##project_name##.ui.base.ComposeActivity
 
 class MainActivity : ComposeActivity() {
 

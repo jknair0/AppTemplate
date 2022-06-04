@@ -1,4 +1,4 @@
-package tech.jknair.app.data
+package tech.jknair.##project_name##.data
 
 import dagger.Module
 import dagger.hilt.InstallIn
