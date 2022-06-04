@@ -4,7 +4,7 @@
     package="tech.jknair.##projectname##">
 
     <application
-        android:name="tech.jknair.##projectname##.ui.##ProjectName##"
+        android:name="tech.jknair.##projectname##.ui.##ProjectName##App"
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
         android:fullBackupContent="@xml/backup_rules"
@@ -12,7 +12,7 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.MovieApp"
+        android:theme="@style/Theme.##ProjectName##App"
         tools:targetApi="31">
         <activity
             android:name=".ui.screens.MainActivity"
