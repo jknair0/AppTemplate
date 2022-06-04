@@ -1,4 +1,4 @@
-package tech.jknair.##projectname##.ui
+package tech.jknair.##projectname##
 
 import android.app.Application
 import dagger.hilt.android.HiltAndroidApp

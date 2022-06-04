@@ -4,7 +4,7 @@
     package="tech.jknair.##projectname##">
 
     <application
-        android:name="tech.jknair.##projectname##.ui.##ProjectName##App"
+        android:name="tech.jknair.##projectname##.##ProjectName##App"
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
         android:fullBackupContent="@xml/backup_rules"
