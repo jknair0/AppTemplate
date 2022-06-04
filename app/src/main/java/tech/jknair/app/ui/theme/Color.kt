@@ -1,4 +1,4 @@
-package tech.jknair.##project_name##.ui.theme
+package tech.jknair.##projectname##.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
