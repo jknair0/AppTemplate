@@ -1,4 +1,4 @@
-package tech.jknair.app
+package tech.jknair.##project_name##
 
 import org.junit.Test
 
